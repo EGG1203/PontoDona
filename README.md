@@ -85,8 +85,7 @@ node index.js
 * **OCR:** [Google Cloud Vision API](https://cloud.google.com/vision) – Inteligência artificial para extração de texto de imagens.
 * **Database:** [Google Sheets API](https://developers.google.com/sheets/api) – Armazenamento em tempo real das batidas de ponto.
 * **Agendamento:** [Node-cron](https://www.npmjs.com/package/node-cron) – Automação de envios de relatórios periódicos.
-* 
-**Segurança:** [Dotenv](https://www.npmjs.com/package/dotenv) – Gerenciamento seguro de dados sensíveis e credenciais.
+* **Segurança:** [Dotenv](https://www.npmjs.com/package/dotenv) – Gerenciamento seguro de dados sensíveis e credenciais.
 
 
 
